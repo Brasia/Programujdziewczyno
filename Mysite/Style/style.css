@@ -1,0 +1,19 @@
+.paragraph-1 {
+color: magenta;
+}
+.paragraph-2 {
+color: pink;
+}
+ul li:first-child{
+color:red;
+}
+ul li:last-child{
+color:blue;
+}
+ul li:nth-child(2){
+color:yellow;
+}
+img {
+	margin:40px 40px 40px 40px;
+	border:3px solid blue;
+}
